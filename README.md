@@ -1,1 +1,3 @@
-# hack112
+# hack112 Made by Rachel Sin, Santiago Roa, Jeanette De La Torre and Kayla Vokt
+#Team Double Double With Fries
+We created an interactive Targets game using Kinect. First, a user has to press "c" to get started then circles will appear randomly on the screen. The user has to wait until the circle grows to its complete size then the user moves their right hand to touch the circle and make it disappear. The user has to make sure to get as many circles as possible, quickly as possible or else if 5 circles are left untouched on the screen, then that's game over! Our further work includes getting the circles to appear synchronized with the beats of any song. Fun twist: when the circles grow to their complete size, 112 TA's faces appear in the circles!
